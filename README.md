@@ -59,6 +59,9 @@ colab link: https://colab.research.google.com/drive/13cwAzYVR0ANyAIjE-ksmieA_td9
 Index Game
 colab link: https://colab.research.google.com/drive/1tJDmudYoIWGuDfw6o9Tc3H-mRQiDL0dK?usp=sharing
 
+✅ Project 3: QR code encoder / decoder Python Project
+colab link: https://colab.research.google.com/drive/1QhHytOxPW25YSRtHFj53LDkmfjZ6c4ug?usp=sharing
+
 ✅ Project 7: Weather Program Python Project
 Github Link: https://github.com/rabiasohail098/python-weather-app.git
 streamlit link: https://python-weather-app-nyejwn3geeykrkwircmei3.streamlit.app/
